@@ -2,6 +2,11 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Description>SphinxClassLibrary是原codeplex中的SphinxClassLibrary包，已由.net framwork 转至.net standard2.0，支持.net core调用</Description>
+    <PackageProjectUrl>https://github.com/zsuxiong/SphinxClassLibrary</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/zsuxiong/SphinxClassLibrary</RepositoryUrl>
+    <Copyright>版权归原开发者所有</Copyright>
   </PropertyGroup>
 
   <ItemGroup>
