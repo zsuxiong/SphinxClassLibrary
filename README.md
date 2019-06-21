@@ -3,6 +3,9 @@ SphinxClassLibrary .net 版本->.net standard
 
 
 # 使用方法跟.net 版本一致
+``` c#
+ public static void Test()
+        {
 int limit = 10;
             SphinxClient sphinxClient = new SphinxClient(ip地址, 端口);
             sphinxClient.MaxMatches = 20000;
@@ -55,3 +58,5 @@ int limit = 10;
                 //    newsSearchResult.NewsList[j].Description = list5[j];
                 //}
             }
+}
+```
