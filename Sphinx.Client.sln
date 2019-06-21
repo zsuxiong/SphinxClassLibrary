@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2011
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SphinxClassLibrary", "src\SphinxClassLibrary\SphinxClassLibrary.csproj", "{DED243C8-5902-4562-A4E7-FD9EDEF7E133}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sphinx.Example", "src\Sphinx.Example\Sphinx.Example.csproj", "{8CAA2541-9A91-4BBE-B59C-1F6A21DEF6B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DED243C8-5902-4562-A4E7-FD9EDEF7E133}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DED243C8-5902-4562-A4E7-FD9EDEF7E133}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DED243C8-5902-4562-A4E7-FD9EDEF7E133}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DED243C8-5902-4562-A4E7-FD9EDEF7E133}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CAA2541-9A91-4BBE-B59C-1F6A21DEF6B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CAA2541-9A91-4BBE-B59C-1F6A21DEF6B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CAA2541-9A91-4BBE-B59C-1F6A21DEF6B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CAA2541-9A91-4BBE-B59C-1F6A21DEF6B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EEB0081B-3DB1-4842-A016-C6F96D3B0864}
+	EndGlobalSection
+EndGlobal
