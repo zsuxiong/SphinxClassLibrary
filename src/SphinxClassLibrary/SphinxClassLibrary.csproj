@@ -7,6 +7,7 @@
     <PackageProjectUrl>https://github.com/zsuxiong/SphinxClassLibrary</PackageProjectUrl>
     <RepositoryUrl>https://github.com/zsuxiong/SphinxClassLibrary</RepositoryUrl>
     <Copyright>版权归原开发者所有</Copyright>
+    <PackageLicenseUrl>https://github.com/zsuxiong/SphinxClassLibrary/blob/master/LICENSE.TXT</PackageLicenseUrl>
   </PropertyGroup>
 
   <ItemGroup>
